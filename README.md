@@ -1,41 +1,64 @@
-<h2 align="left">Hi 👋! My name is Salako Or DungFX and I'm a Css and html main dev, from Vietnamese</h2>
+# 👋 Hello, I'm Drxm
 
-###
+Welcome to my GitHub profile! I'm a developer, builder, and curious mind who loves working on **AI tools**, **image generation**, **automation**, and **web tech**. Whether it’s Stable Diffusion, custom Chrome extensions, or smart APIs — I turn ideas into practical tools.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DungFX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DungFX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🔥 Tech Stack
 
-<img align="right" height="150" src="https://pm1.narvii.com/5695/e20e6c9359f9f37d5fb94a61841bb9734d584dd2_128.jpg"  />
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-%237A42F4?style=for-the-badge&logo=artstation&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-</div>
+## 🚀 Featured Projects
 
-###
+### 🖼️ Stable Diffusion XL Web UI
+> A full-featured Gradio interface for SDXL with LoRA, VAE, IP logging, and more.
 
-<div align="center">
-  <a href="https://www.youtube.com/@SalakoReal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.gg/slk-community" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="tube83001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+- ✅ Supports CivitAI LoRA via API key
+- ✅ Real-time sampling method & VAE switching
+- ✅ Runs on Colab & Kaggle
 
-###
+### 💬 Chrome Customer Bot
+> A Chrome extension that learns from you and replies to customers using the OpenAI API.
 
-<div align="center">
-  <img height="200" src="https://vietotaku.com/wp-content/uploads/2019/11/review-nhan-vat-kurumi-748x375.jpg?v=1636337883"  />
-</div>
+- Trains from message history
+- Adds context awareness
+- Auto-reply logic via OpenAI
 
-###
+### 🎞️ AnimateDiff Toolkit
+> Create AI-powered animations from static images using AnimateDiff and WebUI support.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Drxm&show_icons=true&theme=radical" alt="Drxm GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drxm&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drxm&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 Website: *coming soon*
+- 📷 CivitAI: [@drxm](https://civitai.com/user/drxm)
+- 🐦 Twitter: [@drxmdev](https://twitter.com/drxmdev)
+- 💬 GitHub Discussions or Issues – always open!
+
+---
+
+## 🧾 License
+
+All public repositories are released under the **MIT License** unless stated otherwise.
+
+> _"Build smart. Ship fast. Stay curious."_ — Drxm
